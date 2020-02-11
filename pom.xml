@@ -41,9 +41,10 @@
         <module>logbook-httpclient</module>
         <module>logbook-jaxrs</module>
         <module>logbook-json</module>
+        <module>logbook-logstash</module>
+        <module>logbook-netty</module>
         <module>logbook-okhttp</module>
         <module>logbook-okhttp2</module>
-        <module>logbook-logstash</module>
         <module>logbook-servlet</module>
         <module>logbook-spring-boot-autoconfigure</module>
         <module>logbook-spring-boot-starter</module>
@@ -51,8 +52,8 @@
     </modules>
     <scm>
         <url>https://github.com/zalando/logbook</url>
-        <connection>scm:git:git@github.com:zalando//logbook.git</connection>
-        <developerConnection>scm:git:git@github.com:zalando//logbook.git</developerConnection>
+        <connection>scm:git:git@github.com:zalando/logbook.git</connection>
+        <developerConnection>scm:git:git@github.com:zalando/logbook.git</developerConnection>
     </scm>
     <distributionManagement>
         <snapshotRepository>
